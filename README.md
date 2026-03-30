@@ -1,4 +1,4 @@
-# tpa_on_fem
+# TPAonFEM
 
 Transfer Path Analysis (TPA) and Panel Contribution Analysis for structural, acoustic, and vibro-acoustic Finite Element models.
 
