@@ -8,6 +8,8 @@ The framework allows the study of vibro-acoustic systems composed of structural 
 The methodology enables the identification and quantification of transmission paths between subsystems in coupled structural-acoustic models.
 
 ---
+[![DOI](https://zenodo.org/badge/1196344709.svg)](https://doi.org/10.5281/zenodo.19337601)
+---
 
 # Overview
 
